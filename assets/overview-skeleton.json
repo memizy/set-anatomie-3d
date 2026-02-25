@@ -1,0 +1,727 @@
+{
+  "model": "overview-skeleton.glb",
+  "label": "Kostra – přehled",
+  "meshCount": 144,
+  "meshes": [
+    {
+      "name": "Atlas_(C1)",
+      "vertices": 4080,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Axis_(C2)",
+      "vertices": 3695,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Body_of_sternum",
+      "vertices": 2634,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_vertebrae_(C3)",
+      "vertices": 3489,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_vertebrae_(C4)",
+      "vertices": 3932,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_vertebrae_(C5)",
+      "vertices": 4030,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_vertebrae_(C6)",
+      "vertices": 3940,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_vertebrae_(C7)",
+      "vertices": 3889,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Coccyx",
+      "vertices": 448,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ethmoid_Bone",
+      "vertices": 7229,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Frontal_bone",
+      "vertices": 4263,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebrae_(L1)",
+      "vertices": 4677,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebrae_(L2)",
+      "vertices": 4621,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebrae_(L3)",
+      "vertices": 4567,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebrae_(L4)",
+      "vertices": 4502,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebrae_(L5)",
+      "vertices": 4145,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Mandible_bone",
+      "vertices": 11419,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Manubrium_of_sternum",
+      "vertices": 1425,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Occipital_bone",
+      "vertices": 5675,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Parietal_bone_left",
+      "vertices": 4314,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Parietal_bone_right",
+      "vertices": 4333,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sacrum",
+      "vertices": 6302,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sphenoid_bone",
+      "vertices": 10099,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T1)",
+      "vertices": 3480,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T10)",
+      "vertices": 4162,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T11)",
+      "vertices": 4813,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T12)",
+      "vertices": 4534,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T2)",
+      "vertices": 3405,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T3)",
+      "vertices": 3552,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T4)",
+      "vertices": 3661,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T5)",
+      "vertices": 3798,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T6)",
+      "vertices": 4330,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T7)",
+      "vertices": 4477,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T8)",
+      "vertices": 4705,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebrae_(T9)",
+      "vertices": 4249,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Vomer",
+      "vertices": 888,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1st_metacarpal_boner",
+      "vertices": 851,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_metacarpal_boner",
+      "vertices": 1189,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_metacarpal_boner",
+      "vertices": 1257,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "4th_metacarpal_boner",
+      "vertices": 1135,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "5th_metacarpal_boner",
+      "vertices": 1079,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Calcaneusr",
+      "vertices": 1689,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Capitater",
+      "vertices": 507,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Clavicler",
+      "vertices": 2670,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cuboid_boner",
+      "vertices": 1114,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_1st_fingerr",
+      "vertices": 477,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_2d_fingerr",
+      "vertices": 418,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_3d_fingerr",
+      "vertices": 344,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_4th_fingerr",
+      "vertices": 373,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_5th_fingerr",
+      "vertices": 348,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_fifth_finger_of_footr",
+      "vertices": 210,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_first_finger_of_footr",
+      "vertices": 438,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_fourth_finger_of_footr",
+      "vertices": 194,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_second_finger_of_footr",
+      "vertices": 231,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_third_finger_of_footr",
+      "vertices": 193,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femurr",
+      "vertices": 6827,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibular",
+      "vertices": 1700,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fifth_metatarsal_boner",
+      "vertices": 857,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "First_metatarsal_boner",
+      "vertices": 960,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fourth_metatarsal_boner",
+      "vertices": 1014,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Hamater",
+      "vertices": 554,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Hip_boner",
+      "vertices": 6247,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Humerusr",
+      "vertices": 4561,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_nasal_concha_boner",
+      "vertices": 1317,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intermediate_cuneiform_boner",
+      "vertices": 889,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lacrimal_boner",
+      "vertices": 1132,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_cuneiform_boner",
+      "vertices": 935,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_caniner",
+      "vertices": 523,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_first_molar_toothr",
+      "vertices": 645,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_first_premolarr",
+      "vertices": 465,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_lateral_incisorr",
+      "vertices": 607,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_medial_incisorr",
+      "vertices": 625,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_second_molar_toothr",
+      "vertices": 732,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_second_premolarr",
+      "vertices": 493,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lunate_boner",
+      "vertices": 417,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Maxilla_boner",
+      "vertices": 6693,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_cuneiform_boner",
+      "vertices": 1250,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_2d_fingerr",
+      "vertices": 568,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_3rd_fingerr",
+      "vertices": 560,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_4th_fingerr",
+      "vertices": 558,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_5th_fingerr",
+      "vertices": 498,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_fifth_finger_of_footr",
+      "vertices": 198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_fourth_finger_of_footr",
+      "vertices": 291,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_second_finger_of_footr",
+      "vertices": 335,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_third_finger_of_footr",
+      "vertices": 310,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Nasal_boner",
+      "vertices": 1083,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Navicular_boner",
+      "vertices": 1118,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palatine_boner",
+      "vertices": 2965,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Patellar",
+      "vertices": 597,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pisiformr",
+      "vertices": 225,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_1st_fingerr",
+      "vertices": 831,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_2d_fingerr",
+      "vertices": 956,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_3rd_fingerr",
+      "vertices": 858,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_4th_fingerr",
+      "vertices": 873,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_5th_fingerr",
+      "vertices": 804,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_fifth_finger_of_footr",
+      "vertices": 412,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_first_finger_of_footr",
+      "vertices": 536,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_fourth_finger_of_footr",
+      "vertices": 404,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_second_finger_of_footr",
+      "vertices": 446,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_third_finger_of_footr",
+      "vertices": 438,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radiusr",
+      "vertices": 3047,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(10th)r",
+      "vertices": 2125,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(11th)r",
+      "vertices": 1280,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(12th)r",
+      "vertices": 733,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(1st)r",
+      "vertices": 1118,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(2nd)r",
+      "vertices": 1709,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(3rd)r",
+      "vertices": 2187,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(4th)r",
+      "vertices": 2659,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(5th)r",
+      "vertices": 2230,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(6th)r",
+      "vertices": 2254,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(7th)r",
+      "vertices": 1982,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(8th)r",
+      "vertices": 2160,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rib_(9th)r",
+      "vertices": 2051,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scaphoidr",
+      "vertices": 409,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scapular",
+      "vertices": 4929,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Second_metatarsal_boner",
+      "vertices": 1099,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sesamoid_bones_of_footr",
+      "vertices": 449,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sesamoid_bones_of_handr",
+      "vertices": 636,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Talusr",
+      "vertices": 1383,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Temporal_boner",
+      "vertices": 6867,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Third_metatarsal_boner",
+      "vertices": 983,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibiar",
+      "vertices": 3747,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapeziumr",
+      "vertices": 504,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapezoidr",
+      "vertices": 360,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Triquetrumr",
+      "vertices": 400,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar",
+      "vertices": 3883,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_caniner",
+      "vertices": 539,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_first_molar_toothr",
+      "vertices": 877,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_first_premolarr",
+      "vertices": 701,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_lateral_incisorr",
+      "vertices": 529,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_medial_incisorr",
+      "vertices": 557,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_second_molar_toothr",
+      "vertices": 715,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_second_premolarr",
+      "vertices": 589,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Zygomatic_boner",
+      "vertices": 2064,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_10th_ribr",
+      "vertices": 442,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_1st_ribr",
+      "vertices": 226,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_2nd_ribr",
+      "vertices": 277,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_3rd_ribr",
+      "vertices": 415,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_4th_ribr",
+      "vertices": 420,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_5th_ribr",
+      "vertices": 460,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_6th_ribr",
+      "vertices": 497,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_7th_ribr",
+      "vertices": 569,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_8th_ribr",
+      "vertices": 412,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Costal_cart_of_9th_ribr",
+      "vertices": 414,
+      "geometryType": "BufferGeometry"
+    }
+  ]
+}

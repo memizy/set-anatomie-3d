@@ -1,0 +1,152 @@
+{
+  "model": "colored-skull-base.glb",
+  "label": "Lebka – barevná",
+  "meshCount": 29,
+  "meshes": [
+    {
+      "name": "Ethmoid_Bone",
+      "vertices": 14276,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Frontal_bone",
+      "vertices": 2928,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_nasal_concha_bones",
+      "vertices": 2634,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lacrimal_bones",
+      "vertices": 2264,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_canines",
+      "vertices": 1046,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_first_molar_teeth",
+      "vertices": 1290,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_first_premolars",
+      "vertices": 930,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_lateral_incisors",
+      "vertices": 1214,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_medial_incisors",
+      "vertices": 1250,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_second_molar_teeth",
+      "vertices": 1464,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lower_second_premolars",
+      "vertices": 986,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Mandible_bone",
+      "vertices": 22838,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Maxilla_boner",
+      "vertices": 13386,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Nasal_bone",
+      "vertices": 2166,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Occipital_bone",
+      "vertices": 5453,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palatine_bone",
+      "vertices": 5930,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Parietal_bonel",
+      "vertices": 1868,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Parietal_boner",
+      "vertices": 1853,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sphenoid_bone",
+      "vertices": 10099,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Temporal_bones",
+      "vertices": 13734,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_canines",
+      "vertices": 1078,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_first_molar_teeth",
+      "vertices": 1754,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_first_premolars",
+      "vertices": 1402,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_lateral_incisors",
+      "vertices": 1058,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_medial_incisors",
+      "vertices": 1114,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_second_molar_teeth",
+      "vertices": 1430,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Upper_second_premolars",
+      "vertices": 1178,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Vomer",
+      "vertices": 888,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Zygomatic_bones",
+      "vertices": 4128,
+      "geometryType": "BufferGeometry"
+    }
+  ]
+}

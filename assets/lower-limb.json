@@ -1,0 +1,2267 @@
+{
+  "model": "lower-limb.glb",
+  "label": "Dolní končetina",
+  "meshCount": 452,
+  "meshes": [
+    {
+      "name": "Calcaneusr",
+      "vertices": 1689,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Coccyx",
+      "vertices": 448,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cuboid_boner",
+      "vertices": 1114,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_fifth_finger_of_footr",
+      "vertices": 210,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_first_finger_of_footr",
+      "vertices": 438,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_fourth_finger_of_footr",
+      "vertices": 194,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_second_finger_of_footr",
+      "vertices": 231,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_third_finger_of_footr",
+      "vertices": 193,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femurr",
+      "vertices": 6827,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibular",
+      "vertices": 1700,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fifth_metatarsal_boner",
+      "vertices": 857,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "First_metatarsal_boner",
+      "vertices": 960,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fourth_metatarsal_boner",
+      "vertices": 1014,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Hip_boner",
+      "vertices": 6247,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intermediate_cuneiform_boner",
+      "vertices": 889,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_cuneiform_boner",
+      "vertices": 935,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L1)",
+      "vertices": 4677,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L2)",
+      "vertices": 4621,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L3)",
+      "vertices": 4567,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L4)",
+      "vertices": 4502,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L5)",
+      "vertices": 4145,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_cuneiform_boner",
+      "vertices": 1250,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_fifth_finger_of_footr",
+      "vertices": 198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_fourth_finger_of_footr",
+      "vertices": 291,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_second_finger_of_footr",
+      "vertices": 335,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_third_finger_of_footr",
+      "vertices": 310,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Navicular_boner",
+      "vertices": 1118,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Patellar",
+      "vertices": 597,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_fifth_finger_of_footr",
+      "vertices": 412,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_first_finger_of_footr",
+      "vertices": 536,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_fourth_finger_of_footr",
+      "vertices": 404,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_second_finger_of_footr",
+      "vertices": 446,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_third_finger_of_footr",
+      "vertices": 438,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sacrum",
+      "vertices": 6302,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Second_metatarsal_boner",
+      "vertices": 1099,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sesamoid_bones_of_footr",
+      "vertices": 449,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Talusr",
+      "vertices": 1383,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Third_metatarsal_boner",
+      "vertices": 983,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebra_(T12)",
+      "vertices": 4534,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibiar",
+      "vertices": 3747,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Acetabular_labrumr",
+      "vertices": 697,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_L1_L2",
+      "vertices": 408,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_L2_L3",
+      "vertices": 328,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_L3_L4",
+      "vertices": 336,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_L4_L5",
+      "vertices": 318,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_L5_S1",
+      "vertices": 292,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annulus_fibrosus_T12_L1",
+      "vertices": 350,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_calcaneusr_",
+      "vertices": 800,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_cuboid_boner",
+      "vertices": 1114,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_femur_distal_endr",
+      "vertices": 4694,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_femur_headr",
+      "vertices": 1288,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_fibula_proximal_tibiofibular_jointr",
+      "vertices": 407,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_fibula_talofibular_jointr",
+      "vertices": 395,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_hip_bone_pubisr_",
+      "vertices": 5492,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_intermediate_cuneiform_boner",
+      "vertices": 1099,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_lateral_cuneiform_boner",
+      "vertices": 998,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_medial_cuneiform_boner_",
+      "vertices": 713,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_navicular_boner",
+      "vertices": 1047,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_patellar",
+      "vertices": 400,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_sacrococcygeal_joint_on_coccyx",
+      "vertices": 714,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_sacrococcygeal_joint_on_sacrum",
+      "vertices": 268,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_sacroiliac_joint_on_hip_bone",
+      "vertices": 543,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_sacroiliac_joint_on_sacrum",
+      "vertices": 892,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_Sesamoid_bonesr",
+      "vertices": 402,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_talusr_​",
+      "vertices": 1418,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_tibia_distal_endr_",
+      "vertices": 647,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_tibia_proximal_endr",
+      "vertices": 1472,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_cart_of_tibia_proximal_tibiofibular_jointr​",
+      "vertices": 490,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_carts_of_distal_phalanges_of_footr",
+      "vertices": 2744,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_carts_of_metatarsal_bonesr",
+      "vertices": 3987,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_carts_of_middle_phalanges_of_footr",
+      "vertices": 2898,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Art_carts_of_proximal_phalanges_of_footr",
+      "vertices": 4292,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_meniscusr",
+      "vertices": 581,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_meniscusr",
+      "vertices": 547,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Symphysis_of_sacrococcygeal_joint",
+      "vertices": 360,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Synovial_membranes_of_kneer",
+      "vertices": 5398,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_cruciate_ligamentr",
+      "vertices": 442,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_horn_of_Lateral_meniscusr",
+      "vertices": 347,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_horn_of_Medial_meniscusr",
+      "vertices": 392,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_sacro-iliac_ligamentr",
+      "vertices": 504,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_talocalcaneal_ligamentr",
+      "vertices": 234,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_talofibular_ligamentr",
+      "vertices": 562,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_tibiofibular_ligamentr",
+      "vertices": 427,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_tibiotalar_ligament_(Tibiospring_lig)r",
+      "vertices": 366,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsule_of_knee_jointr",
+      "vertices": 6442,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_distal_interphalangeal_joints",
+      "vertices": 2568,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_metatarsophalangeal_jointsr",
+      "vertices": 2785,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_proximal_interphalangealr",
+      "vertices": 3459,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_hip_bone_acetabulumr",
+      "vertices": 603,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Bifurcatum_ligament",
+      "vertices": 464,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Calcaneofibular_ligamentr",
+      "vertices": 407,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Capsule_of_talocrural_jointr",
+      "vertices": 3223,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cervical_ligament_(anterior_talocalcaneal_ligament)r",
+      "vertices": 562,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cuneometatarsal_interosseus_ligamentsr",
+      "vertices": 792,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_transverse_metatarsal_ligamentr",
+      "vertices": 2692,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_calcaneocuboid_ligamentr",
+      "vertices": 444,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_cuboidonavicular_ligamentr",
+      "vertices": 323,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_cuneocuboid_ligamentr",
+      "vertices": 378,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_cuneonavicular_ligamentsr",
+      "vertices": 898,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_intercuneiform_ligamentsr",
+      "vertices": 719,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metatarsal_ligamentsr",
+      "vertices": 1795,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_tarsometatarsal_ligamentsr",
+      "vertices": 2808,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_apparatus_of_1st_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_apparatus_of_2nd_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_apparatus_of_3rd_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_apparatus_of_4th_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_apparatus_of_5th_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibular_collateral_ligamentr",
+      "vertices": 499,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Hip_joint_capsuler",
+      "vertices": 2571,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Iliolumbar_ligament_r",
+      "vertices": 1265,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intercornual_ligamentr",
+      "vertices": 687,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intercuneiform_interosseus_ligamentsr",
+      "vertices": 608,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Interossea__Posterior_sacro-iliac_ligamentr",
+      "vertices": 3703,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Interosseous_membrane_of_legr",
+      "vertices": 1075,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Interosseus_talocalcaneal_ligamentr",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Interpubic_disc",
+      "vertices": 2594,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intersesamoid_ligamentr",
+      "vertices": 395,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ligament_of_head_of_femurr",
+      "vertices": 1274,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ligaments_of_fibular_headr",
+      "vertices": 493,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Long_plantar_ligamentr",
+      "vertices": 1659,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_talocalcaneal_ligamentr",
+      "vertices": 226,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Metatarsal_interosseous_ligamentsr",
+      "vertices": 1321,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Obturator_membraner",
+      "vertices": 300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_calcaneocuboid_ligamentr",
+      "vertices": 382,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_calcaneonavicular_ligamentr",
+      "vertices": 503,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_cuboideonavicular_ligamentr",
+      "vertices": 416,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_cuneocuboid_ligamentr",
+      "vertices": 934,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_cuneonavicular_ligamentsr",
+      "vertices": 977,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_intercuneiform_ligamentsr",
+      "vertices": 789,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_metatarsal_ligamentsr",
+      "vertices": 2417,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_tarsometatarsal_ligamentsr",
+      "vertices": 1863,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_cruciate_ligamentr",
+      "vertices": 424,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_horn_of_Lateral_meniscusr",
+      "vertices": 378,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_horn_of_Medial_meniscusr",
+      "vertices": 368,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_meniscofemoral_ligamentr",
+      "vertices": 146,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_talocalcaneal_ligamentr",
+      "vertices": 722,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_tibiofibular_ligamentr",
+      "vertices": 278,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_tibiotalar_ligamentr",
+      "vertices": 410,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sacrospinous_ligamentr",
+      "vertices": 536,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sacrotuberal_ligamentr",
+      "vertices": 1989,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sup,_Inf,_Ant,_Post,_Pubic_ligaments",
+      "vertices": 546,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_transverse_metatarsal_ligamentr",
+      "vertices": 304,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Talonavicular_ligamentr",
+      "vertices": 577,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibiocalcaneal_ligamentr",
+      "vertices": 586,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibionavicular_ligamentr",
+      "vertices": 568,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_acetabular_ligamentr",
+      "vertices": 490,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_ligament_of_kneer",
+      "vertices": 707,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_tibiofibular_ligamentr",
+      "vertices": 528,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1st_Dorsal_interossei_muscles_of_footr",
+      "vertices": 677,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_Dorsal_interossei_muscles_of_footr",
+      "vertices": 672,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_Dorsal_interossei_muscles_of_footr",
+      "vertices": 706,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "4th_Dorsal_interossei_muscles_of_footr",
+      "vertices": 629,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_digiti_minimi_of_footr",
+      "vertices": 762,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_hallucisr",
+      "vertices": 667,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_brevisr",
+      "vertices": 425,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_longusr",
+      "vertices": 572,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_magnusr",
+      "vertices": 1949,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articularis_genusr",
+      "vertices": 234,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Calcaneal_tendonr",
+      "vertices": 1516,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Coccygeus_muscler",
+      "vertices": 330,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_tendon_of_biceps_femorisr",
+      "vertices": 606,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_tendon_of_Semitendinosus_and_Long_head_of_biceps_femoris",
+      "vertices": 506,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum_brevisr",
+      "vertices": 2214,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum_longus_tendonsr",
+      "vertices": 1378,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum_longusr",
+      "vertices": 286,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hallucis_brevisr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hallucis_longusr",
+      "vertices": 753,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibularis_brevis_muscler",
+      "vertices": 663,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibularis_longus_muscler",
+      "vertices": 927,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibularis_tertius_muscler",
+      "vertices": 485,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digiti_minimi_brevis_of_footr",
+      "vertices": 362,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digitorum_brevisr",
+      "vertices": 3251,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digitorum_longusr",
+      "vertices": 1753,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_hallucis_longusr",
+      "vertices": 789,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Gluteus_maximus_muscler",
+      "vertices": 597,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Gluteus_medius_muscler",
+      "vertices": 421,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Gluteus_minimus_muscler",
+      "vertices": 716,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Gracilis_muscler",
+      "vertices": 1174,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Iliacus_muscler",
+      "vertices": 1094,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_gemellus_muscler",
+      "vertices": 373,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Infrapatellar_fat_padr",
+      "vertices": 1463,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_head_of_flexor_hallucis_brevisr",
+      "vertices": 490,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_head_of_gastrocnemiusr",
+      "vertices": 1189,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Long_head_of_biceps_femorisr",
+      "vertices": 1072,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbrical_muscles_of_footr",
+      "vertices": 1321,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_head_of_flexor_hallucis_brevisr",
+      "vertices": 458,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_head_of_gastrocnemiusr",
+      "vertices": 1117,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Oblique_head_of_adductor_hallucisr",
+      "vertices": 482,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Obturator_externusr",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Obturator_internusr",
+      "vertices": 501,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Opponens_digiti_minimi_muscle_of_footr",
+      "vertices": 326,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pectineus_muscler",
+      "vertices": 284,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pes_anserinus_common_tendonr",
+      "vertices": 986,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Piriformis_muscler",
+      "vertices": 959,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_aponeurosisr",
+      "vertices": 5763,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_interossei_musclesr",
+      "vertices": 664,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantaris_muscler",
+      "vertices": 643,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Popliteus_muscler",
+      "vertices": 677,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Psoas_majorr",
+      "vertices": 1533,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Psoas_minorr",
+      "vertices": 1255,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Quadratus_femoris_muscler",
+      "vertices": 618,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Quadratus_plantae_muscler",
+      "vertices": 829,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Quadriceps_common_tendon_and_patellar_ligamentr",
+      "vertices": 2120,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Rectus_femorisr",
+      "vertices": 808,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sartorius_muscler",
+      "vertices": 852,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Semimembranosus_muscle_tendonr",
+      "vertices": 1156,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Semimembranosus_muscler",
+      "vertices": 810,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Semitendinosus_muscler",
+      "vertices": 714,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Short_head_of_biceps_femorisr",
+      "vertices": 659,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Soleus_muscler",
+      "vertices": 725,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_gemellus_muscler",
+      "vertices": 354,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Synovial_sheaths_of_toesr",
+      "vertices": 4192,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tensor_fasciae_lataer",
+      "vertices": 599,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibialis_anterior_muscler",
+      "vertices": 807,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibialis_posterior_muscler",
+      "vertices": 1921,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_head_of_adductor_hallucisr",
+      "vertices": 535,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Vastus_intermedius_muscler",
+      "vertices": 784,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Vastus_lateralis_muscler",
+      "vertices": 733,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Vastus_medialis_muscler",
+      "vertices": 708,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_intermuscular_septum_of_legr",
+      "vertices": 846,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Crural_fasciar",
+      "vertices": 2560,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fascia_latar",
+      "vertices": 3409,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_retinaculum_of_ankler",
+      "vertices": 622,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Gluteal_aponeurosisr",
+      "vertices": 213,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Iliotibial_tractr",
+      "vertices": 976,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_extensor_retinaculumr",
+      "vertices": 1618,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_fibular_retinaculumr",
+      "vertices": 706,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_femoral_intermuscular_septumr",
+      "vertices": 956,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_femoral_intermuscular_septumr",
+      "vertices": 538,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_intermuscular_septum_of_legr",
+      "vertices": 852,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_extensor_retinaculum_of_ankler",
+      "vertices": 798,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_fibular_retinaculumr",
+      "vertices": 774,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_intermuscular_septum_of_legr",
+      "vertices": 177,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1th_to_4th_perforating_branches_of_the_deep_femoral_arteryr",
+      "vertices": 5928,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_lateral_malleolar_arteryr",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_medial_malleolar_arteryr",
+      "vertices": 1456,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_tibial_arteryr",
+      "vertices": 949,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_tibial_recurrent_arteryr",
+      "vertices": 663,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Arcuate_arteryr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ascending_branch_of_lateral_circumflex_femoral_arteryr",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Communicating_brof_Posterior_tibial_a_and_Femoral_ar",
+      "vertices": 169,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_artery_of_the_thighr",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_branch_of_Medial_plantar_arteryr",
+      "vertices": 494,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_plantar_archr",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_plantar_arteryr",
+      "vertices": 169,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Descending_branch_of_lateral_circumflex_femoral_arteryr",
+      "vertices": 1911,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Descending_genicular_arteryr",
+      "vertices": 819,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_arteries_of_footr",
+      "vertices": 7306,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metatarsal_arteriesr",
+      "vertices": 9048,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_pedis_arteryr",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_arteryr",
+      "vertices": 812,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_neck_vesselsr",
+      "vertices": 1950,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibular_arteryr",
+      "vertices": 1105,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_lateral_genicular_arteryr",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_medial_genicular_arteryr",
+      "vertices": 1768,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_calcaneal_branch_of_fibular_arteryr",
+      "vertices": 1443,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_circumflex_femoral_arteryr",
+      "vertices": 1443,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_malleolar_branches_of_Fibular_arteryr",
+      "vertices": 494,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_plantar_arteryr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_tarsal_arteryr",
+      "vertices": 975,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_calcaneal_arteryr",
+      "vertices": 650,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_circumflex_femoral_arteryr",
+      "vertices": 2392,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_malleolar_artery_of_Posterior_tibial_arteryr",
+      "vertices": 650,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_plantar_arteryr",
+      "vertices": 169,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_tarsal_arteriesr",
+      "vertices": 2236,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_genicular_arteryr",
+      "vertices": 338,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_br_between_Arcuate_a_and_Deep_plantar_archr",
+      "vertices": 507,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_branches_of_fibular_arteryr",
+      "vertices": 1287,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_metatarsal_arteriesr",
+      "vertices": 1313,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Popliteal_arteryr",
+      "vertices": 2210,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_tibial_arteryr",
+      "vertices": 1261,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_tibial_recurrent_arteryr",
+      "vertices": 949,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_branch_of_Medial_planter_arteryr",
+      "vertices": 1105,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_circumflex_iliac_arteryr",
+      "vertices": 806,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_epigastric_arteryr",
+      "vertices": 1755,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_external_pudendal_arteryr",
+      "vertices": 806,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_lateral_genicular_arteryr",
+      "vertices": 3497,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_medial_genicular_arteryr",
+      "vertices": 3055,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sural_arteryr",
+      "vertices": 676,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1th_to_4th_perforating_branches_of_the_deep_femoral_veinr",
+      "vertices": 3211,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Accessory_saphenous_veinr",
+      "vertices": 4433,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Accompanying_veins_of_arcuate_and_dorsal_arteriesr",
+      "vertices": 7917,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Accompanying_veins_of_dorsal_digital_metatarsal_arteriesr",
+      "vertices": 5096,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_femoral_cutaneous_veinr",
+      "vertices": 7917,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_tibial_veinr",
+      "vertices": 2717,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_femoral_veinr",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_vein_of_medial_side_of_great_toer",
+      "vertices": 1430,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_veinsr",
+      "vertices": 7514,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metatarsal_veinsr",
+      "vertices": 1625,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_venous_arch_of_footr",
+      "vertices": 1105,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_venous_network_of_footr",
+      "vertices": 3536,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_veinr",
+      "vertices": 968,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibular_veinr",
+      "vertices": 1924,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Great_saphenous_veinr",
+      "vertices": 2041,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_lateral_genicular_veinr",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_medial_genicular_veinr",
+      "vertices": 1768,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intercapitular_veins_of_footr",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_circumflex_femoral_veinr",
+      "vertices": 819,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_marginal_veinr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_plantar_veinr",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_circumflex_femoral_veinr",
+      "vertices": 962,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_marginal_veinr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_plantar_veinr",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_genicular_veinr",
+      "vertices": 494,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_branches_(Boyd's_veins)r",
+      "vertices": 507,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_branches_(Cockett's_veins)r",
+      "vertices": 975,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_branches_(Dodd's_veins)r",
+      "vertices": 1001,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_digital_veinsr",
+      "vertices": 7774,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_metatarsal_veinsr",
+      "vertices": 1781,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_venous_archr",
+      "vertices": 1430,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Popliteal_veinr",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_arch_veinsr",
+      "vertices": 2067,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_tibial_veinr",
+      "vertices": 3198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Small_saphenous_veinr",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_circumflex_iliac_veinr",
+      "vertices": 806,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_epigastric_veinr",
+      "vertices": 2392,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_external_pudendal_veinr",
+      "vertices": 1274,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_lateral_genicular_veinr",
+      "vertices": 2860,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_medial_genicular_veinr",
+      "vertices": 2730,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sural_veinr",
+      "vertices": 832,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tributary_veins_of_Great_and_small_saphenous_veinsr",
+      "vertices": 14820,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_branch_of_Iliohypogastric_nerver",
+      "vertices": 2008,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_branch_of_Obturator_nerver",
+      "vertices": 1733,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_cutaneous_branches_of_Femoral_nerver",
+      "vertices": 3930,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_fibular_nerver",
+      "vertices": 2911,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_plantar_digital_nervesr",
+      "vertices": 1277,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cutaneous_br_of_Anterior_br_of_Obturator_nerver",
+      "vertices": 3092,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_branch_of_Lateral_plantar_nerver",
+      "vertices": 505,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_fibular_nerver",
+      "vertices": 2480,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_branches_of_deep_fibular_nerver",
+      "vertices": 1790,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_branches_of_superficial_fibular_nerver",
+      "vertices": 4003,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_branch_of_Genitofemoral_nerver",
+      "vertices": 3548,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_nerver",
+      "vertices": 1203,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Genital_branch_of_Genitofemoral_nerver",
+      "vertices": 1441,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ilioinguinal_nerver",
+      "vertices": 1852,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_clunial_br_of_post_cutaneous_nerve_of_the_thighr",
+      "vertices": 3064,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_gluteal_nerver",
+      "vertices": 7261,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Infrapatellar_branch_of_Saphenous_nerver",
+      "vertices": 2296,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_branch_of_deep_fibular_nerver",
+      "vertices": 542,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_calcaneal_nervesr",
+      "vertices": 1996,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_cutaneous_branch_of_Iliohypogaticus_nerver",
+      "vertices": 4410,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_dorsal_cutaneous_nerve_(Sural_n)r",
+      "vertices": 505,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_dorsal_cutaneous_nerver",
+      "vertices": 1166,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_femoral_cuteneous_nerver",
+      "vertices": 6656,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_plantar_cutaneous_nerve_(Sural_n)r",
+      "vertices": 3088,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_plantar_nerver",
+      "vertices": 1745,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_sural_cutaneous_nerver",
+      "vertices": 9073,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_branch_of_deep_fibular_nerver",
+      "vertices": 661,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_calcaneal_branches_of_Tibial_nerver",
+      "vertices": 698,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_dorsal_cutaneous_nerver",
+      "vertices": 1010,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_plantar_nerver",
+      "vertices": 854,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_sural_cutaneous_nerver",
+      "vertices": 1634,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Muscular_branches_of_the_Femoral_nerver",
+      "vertices": 6557,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Obturator_nerver",
+      "vertices": 1671,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plexus_lumbarisr",
+      "vertices": 349,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_branch_of_Obturator_nerver",
+      "vertices": 4004,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_cutaneous_nerve_of_the_thighr",
+      "vertices": 10245,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proper_plantar_digital_branches_(Lateral_plantar_nerve)r",
+      "vertices": 2295,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proper_plantar_digital_branches_(Medial_plantar_nerve)r",
+      "vertices": 5407,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Saphenous_branch_of_Femoralis_nerver",
+      "vertices": 1010,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Saphenous_nerve_(Medial_crural_cutaneous_branches)r",
+      "vertices": 12558,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Schiatic_nerver",
+      "vertices": 1589,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_branch_of_Lateral_plantar_nerver",
+      "vertices": 505,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_fibular_nerver",
+      "vertices": 1901,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_clunial_nerve_(posterior_rami)r",
+      "vertices": 5085,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_gluteal_nerver",
+      "vertices": 6455,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sural_nerver",
+      "vertices": 973,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibial_nerver",
+      "vertices": 11547,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Bursa_of_piriformisr",
+      "vertices": 126,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_tendon_sheath_of_fibularis_musclesr",
+      "vertices": 3072,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_Infrapatellar_bursar",
+      "vertices": 50,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum_longus-fibularis_tertius_vaginae_tendinumr",
+      "vertices": 4808,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hallucis_longus_tendon_sheathr",
+      "vertices": 962,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digitorum_longus_tendon_sheathr",
+      "vertices": 2652,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_hallucis_longus_tendon_sheathr",
+      "vertices": 2448,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Iliopectineal_bursar",
+      "vertices": 338,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Inferior_subtendinous_bursa_of_biceps_femorisr",
+      "vertices": 162,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intermuscular_gluteal_bursaer",
+      "vertices": 1014,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_subtendinous_bursa_of_gastrocnemius_muscler",
+      "vertices": 578,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_subtendinous_bursa_of_gastrocnemius_muscler",
+      "vertices": 98,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pes_anserine_bursar",
+      "vertices": 50,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Plantar_tendinous_sheath_of_fibularis_longusr",
+      "vertices": 884,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sciatic_bursa_of_gluteus_maximus_(Ischiogluteal_bursa)r",
+      "vertices": 330,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sciatic_bursa_of_obturator_internusr",
+      "vertices": 338,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Semimembranosus_bursa_deep_to_tendonr",
+      "vertices": 50,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_bursa_of__medial_malleolusr",
+      "vertices": 216,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_bursa_of_lateral_malleolusr",
+      "vertices": 216,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_bursa_of_tuberosity_of_tibiar",
+      "vertices": 50,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_calcaneal_bursar",
+      "vertices": 810,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_Infrapatellar_bursar",
+      "vertices": 84,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_prepatellar_bursar",
+      "vertices": 198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subcutaneous_trochanteric_bursar",
+      "vertices": 98,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subfascial_prepatellar_bursar",
+      "vertices": 162,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subpopliteal_recessr",
+      "vertices": 162,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_bursa_of_iliacusr",
+      "vertices": 338,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_bursa_of_obturator_internusr",
+      "vertices": 234,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_bursa_of_sartoriusr",
+      "vertices": 50,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_bursa_of_tibialis_anteriorr",
+      "vertices": 216,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_calcaneal_bursar",
+      "vertices": 288,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Subtendinous_prepatellar_bursar",
+      "vertices": 162,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superior_bursa_of_biceps_femorisr",
+      "vertices": 330,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibialis_anterior_tendon_sheathr",
+      "vertices": 2958,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tibialis_posterior_tendon_sheathr",
+      "vertices": 1472,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trochanteric_bursa_of_gluteus_maximusr",
+      "vertices": 98,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trochanteric_bursa_of_gluteus_minimusr",
+      "vertices": 176,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trochanteric_bursae_of_gluteus_mediusr",
+      "vertices": 338,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_canalr",
+      "vertices": 1840,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_hiatusr",
+      "vertices": 314,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_minimus_overlayr",
+      "vertices": 1360,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_1st_toe_A1-A5r",
+      "vertices": 640,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_2nd_toe_A1-A5r",
+      "vertices": 728,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_3rd_toe_A1-A5r",
+      "vertices": 728,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_4th_toe_A1-A5r",
+      "vertices": 528,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_5th_toe_A1-A5r",
+      "vertices": 418,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_ligament_of_fibular_headr",
+      "vertices": 198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_pubic_ligament",
+      "vertices": 144,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Arcuate_ligamentr",
+      "vertices": 190,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Calcaneocuboid_ligamentr",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Calcaneonavicular_ligamentr",
+      "vertices": 656,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligament_of_proximal_interphalangeal_jointsr",
+      "vertices": 1448,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligaments_of_distal_interphalangeal_jointsr",
+      "vertices": 940,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligaments_of_metatarsophalangeal_jointsr",
+      "vertices": 1358,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_1st_toer",
+      "vertices": 576,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_2nd_toer",
+      "vertices": 786,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_3rd_toer",
+      "vertices": 774,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_4th_toer",
+      "vertices": 762,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_5th_toer",
+      "vertices": 654,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Descending_part_of_Iliofemoral_ligamentr",
+      "vertices": 810,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_canalr",
+      "vertices": 216,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_ringr",
+      "vertices": 72,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Femoral_triangler",
+      "vertices": 1346,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibrous_sheath_of_toesr",
+      "vertices": 4308,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ishciofemoral_ligamentr",
+      "vertices": 324,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_patellar_retinaculum_(horizontal_part)r",
+      "vertices": 132,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_patellar_retinaculum_(vertical_part)r",
+      "vertices": 246,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_collatertal_ligamentr",
+      "vertices": 434,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_patellar_retinaculum_(horizontal_part)r",
+      "vertices": 156,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Medial_patellar_retinaculum_(vertical_part)r",
+      "vertices": 240,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Oblique_popliteal_ligamentr",
+      "vertices": 234,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligament_of_proximal_interphalangeal_jointsr",
+      "vertices": 788,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligaments_of_distal_interphalangeal_jointsr",
+      "vertices": 662,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligaments_of_metatarsophalangeal_jointsr",
+      "vertices": 648,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_ligament_of_fibular_headr",
+      "vertices": 198,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_pubic_ligament",
+      "vertices": 144,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_talofibular_ligamentr",
+      "vertices": 136,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pubofemoral_ligamentr",
+      "vertices": 224,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Quadriceps_common_tendon_and_patellar_ligament",
+      "vertices": 788,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Saphenous_openingr",
+      "vertices": 48,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Suprapatellar_bursa_overlayr",
+      "vertices": 728,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Tendinous_arch_of_soleusr",
+      "vertices": 518,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_part_of_Iliofemoral_ligamentr",
+      "vertices": 780,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Zona_orbicularis_of_hip_jointr",
+      "vertices": 204,
+      "geometryType": "BufferGeometry"
+    }
+  ]
+}

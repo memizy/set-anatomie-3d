@@ -1,0 +1,22 @@
+{
+  "model": "vertebrae.glb",
+  "label": "Obratle",
+  "meshCount": 3,
+  "meshes": [
+    {
+      "name": "Cervical_vertebra_(C4)",
+      "vertices": 3932,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lumbar_vertebra_(L3)",
+      "vertices": 4567,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Thoracic_vertebra_(T7)",
+      "vertices": 4477,
+      "geometryType": "BufferGeometry"
+    }
+  ]
+}

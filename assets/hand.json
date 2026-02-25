@@ -1,0 +1,1122 @@
+{
+  "model": "hand.glb",
+  "label": "Ruka",
+  "meshCount": 223,
+  "meshes": [
+    {
+      "name": "1st_metacarpal_bone",
+      "vertices": 851,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_metacarpal_bone",
+      "vertices": 1189,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_metacarpal_bone",
+      "vertices": 1257,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "4th_metacarpal_bone",
+      "vertices": 1135,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "5th_metacarpal_bone",
+      "vertices": 1079,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Capitate",
+      "vertices": 507,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_1st_finger",
+      "vertices": 477,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_2d_finger",
+      "vertices": 418,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_3d_finger",
+      "vertices": 344,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_4th_finger",
+      "vertices": 373,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Distal_phalanx_of_5th_finger",
+      "vertices": 348,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Hamate",
+      "vertices": 554,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lunate_bone",
+      "vertices": 417,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_2d_finger",
+      "vertices": 568,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_3rd_finger",
+      "vertices": 560,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_4th_finger",
+      "vertices": 558,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Middle_phalanx_of_5th_finger",
+      "vertices": 498,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pisiform",
+      "vertices": 225,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_1st_finger",
+      "vertices": 831,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_2d_finger",
+      "vertices": 956,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_3rd_finger",
+      "vertices": 858,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_4th_finger",
+      "vertices": 873,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proximal_phalanx_of_5th_finger",
+      "vertices": 804,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radius",
+      "vertices": 648,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scaphoid",
+      "vertices": 409,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Sesamoid_bones",
+      "vertices": 636,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapezium",
+      "vertices": 504,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapezoid",
+      "vertices": 360,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Triquetrum",
+      "vertices": 400,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulna",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Synovial_sheaths_of_fingers",
+      "vertices": 9740,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1st_dorsal_interosseus_of_hand",
+      "vertices": 1136,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1st_lumbrical_of_hand",
+      "vertices": 501,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "1st_palmar_interosseus_of_hand",
+      "vertices": 529,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_dorsal_interosseus_of_hand",
+      "vertices": 792,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_lumbrical_of_hand",
+      "vertices": 443,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "2nd_palmar_interosseus_of_hand",
+      "vertices": 752,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_dorsal_interosseus_of_hand",
+      "vertices": 954,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_lumbrical_of_hand",
+      "vertices": 730,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "3rd_palmar_interosseus_of_hand",
+      "vertices": 614,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "4th_dorsal_interosseus_of_hand",
+      "vertices": 1049,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "4th_lumbrical_of_hand",
+      "vertices": 721,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_digiti_minimi",
+      "vertices": 504,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_pollicis_brevis",
+      "vertices": 789,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_pollicis_longus",
+      "vertices": 216,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Abductor_pollicis_longus_tendon_sheath",
+      "vertices": 1470,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Adductor_pollicis",
+      "vertices": 1380,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Aponeurosis_palmaris",
+      "vertices": 902,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_metacarpophalangeal_joints",
+      "vertices": 5590,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Brachioradialis_muscle",
+      "vertices": 88,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_flexor_tendon_sheath",
+      "vertices": 3520,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_tendon_of_extensor_carpi_ulnaris",
+      "vertices": 175,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_tendon_of_flexor_carpi_ulnaris",
+      "vertices": 389,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_head_of_flexor_pollicis_brevis",
+      "vertices": 742,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_carpi_radialis_brevis",
+      "vertices": 217,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_carpi_radialis_brevis_tendon_sheath",
+      "vertices": 3354,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_carpi_radialis_longus",
+      "vertices": 190,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_carpi_radialis_longus_tendon_sheath",
+      "vertices": 2310,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_carpi_ulnaris_tendon_sheath",
+      "vertices": 1836,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digiti_minimi",
+      "vertices": 314,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digiti_minimi_tendon_sheath",
+      "vertices": 2024,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum",
+      "vertices": 1103,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_digitorum_-_Extensor_indicis_tendon_sheath",
+      "vertices": 5802,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_indicis",
+      "vertices": 936,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_pollicis_brevis",
+      "vertices": 617,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_pollicis_brevis_tendon_sheath",
+      "vertices": 1674,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_pollicis_longus",
+      "vertices": 513,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_pollicis_longus_tendon_sheath",
+      "vertices": 1240,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_carpi_radialis",
+      "vertices": 267,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_carpi_radialis_tendon_sheath",
+      "vertices": 1836,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digiti_minimi_brevis_of_hand",
+      "vertices": 534,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digitorum_profundus",
+      "vertices": 1531,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_digitorum_superficialis_humeral_head",
+      "vertices": 1110,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_pollicis_longus",
+      "vertices": 536,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_pollicis_longus_tendon_sheath",
+      "vertices": 10194,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Opponens_digiti_minimi_muscle_of_hand",
+      "vertices": 421,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Opponens_pollicis_muscle",
+      "vertices": 551,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmaris_brevis_muscle",
+      "vertices": 1816,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmaris_longus_muscle",
+      "vertices": 254,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pronator_quadratus",
+      "vertices": 321,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_head_of_flexor_pollicis_brevis",
+      "vertices": 658,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_transverse_metacarpal_ligament",
+      "vertices": 527,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Antebrachial_fascia",
+      "vertices": 662,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_retinaculum_of_wrist",
+      "vertices": 472,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Flexor_retinaculum_of_wrist",
+      "vertices": 604,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligament(A1)_of_1st_finger",
+      "vertices": 1736,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligament(A2)_of_1st_finger",
+      "vertices": 126,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_2nd_finger_A1-A5",
+      "vertices": 1628,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_3rd_finger_A1-A5",
+      "vertices": 1628,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_4th_finger_A1-A5",
+      "vertices": 1430,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Annular_ligaments_of_5th_finger_A1-A5",
+      "vertices": 1502,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligaments_of_distal_phalangeal_joints",
+      "vertices": 848,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligaments_of_interphalangeal_joint",
+      "vertices": 632,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Collateral_ligaments_of_metacarpal_joints",
+      "vertices": 3712,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_of_2nd_finger",
+      "vertices": 778,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_3rd_finger",
+      "vertices": 775,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_4th_finger",
+      "vertices": 789,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cruciform_ligaments_or_5th_finger",
+      "vertices": 903,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_intercarpal_ligaments",
+      "vertices": 332,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_radiocarpal_ligament",
+      "vertices": 322,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Oblique_head_of_adductor_pollicis",
+      "vertices": 429,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Oblique_ligament_of_1st_finger",
+      "vertices": 232,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligaments_of_distal_phalangeal_joints",
+      "vertices": 348,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligaments_of_interphalangeal_joints",
+      "vertices": 268,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ligaments_of_metacarpophalangeal_joints",
+      "vertices": 1170,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_radiocarpal_ligament",
+      "vertices": 238,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_ulnocarpal_ligament",
+      "vertices": 284,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pisometacarpal_ligament",
+      "vertices": 132,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radial_collateral_ligament",
+      "vertices": 124,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_head_of_adductor_pollicis",
+      "vertices": 380,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_collateral_ligament",
+      "vertices": 160,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartiage_of_ulna_distal_end",
+      "vertices": 279,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_capitate_bone​",
+      "vertices": 458,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_hamate_bone​",
+      "vertices": 516,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_lunate_bone",
+      "vertices": 501,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_pisiform_bone_​",
+      "vertices": 132,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_radius_distal_end​",
+      "vertices": 610,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_scaphoid_bone​",
+      "vertices": 627,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_trapezium_bone​",
+      "vertices": 376,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_trapezoid_bone​",
+      "vertices": 532,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilage_of_triquetrum_bone",
+      "vertices": 436,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilages_of_distal_phalanges",
+      "vertices": 726,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilages_of_metacarpal_bones",
+      "vertices": 1584,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilages_of_middle_phalanges",
+      "vertices": 1373,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_cartilages_of_proximal_phalanges",
+      "vertices": 1672,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Triangular_fibro_cartilage_disc",
+      "vertices": 1973,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsule_of_radiocarpal_joint",
+      "vertices": 5679,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_distal_interphalangeal_joints",
+      "vertices": 1694,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Articular_capsules_of_proximal_interphalangeal_joints",
+      "vertices": 1252,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Capitohamate_interosseus_ligament",
+      "vertices": 430,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_transverse_metacarpal_ligament",
+      "vertices": 1315,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_carpometacarpal_ligaments",
+      "vertices": 3729,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_intercarpal_ligaments001",
+      "vertices": 2404,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metacarpal_ligaments",
+      "vertices": 1199,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_radio-ulnar_ligament",
+      "vertices": 1700,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_scaphotriquetral_ligament",
+      "vertices": 486,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_ulnocarpal_ligament",
+      "vertices": 810,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hood_of_2nd_finger",
+      "vertices": 581,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hood_of_3rd_finger",
+      "vertices": 581,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hood_of_4th_finger",
+      "vertices": 581,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Extensor_hood_of_5th_finger",
+      "vertices": 581,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibrous_sheath_of_digits_of_hand",
+      "vertices": 2564,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Fibrous_sheath_of_digits_of_hand_thumb",
+      "vertices": 942,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Interosseous_metacarpal_ligaments",
+      "vertices": 1211,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intertendinous_connections_of_extensor_digitorum",
+      "vertices": 930,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_band_of_2nd_finger",
+      "vertices": 928,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_band_of_3rd_finger",
+      "vertices": 1006,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_band_of_4th_finger",
+      "vertices": 818,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lateral_band_of_5th_finger",
+      "vertices": 942,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Lunotriquetral_interosseous_ligament",
+      "vertices": 394,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_capitohamate_ligament",
+      "vertices": 795,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_carpometacarpal_ligaments",
+      "vertices": 3514,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_lunotriquetral_ligament",
+      "vertices": 445,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_metacarpal_ligaments",
+      "vertices": 1173,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_radio-ulnar_ligament",
+      "vertices": 371,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_scaphotriquetral_ligament",
+      "vertices": 772,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_trapezoideocapitate_ligament",
+      "vertices": 671,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pisohamate_ligament",
+      "vertices": 212,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Pisotriquetral_ligament",
+      "vertices": 952,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radiate_carpal_ligament",
+      "vertices": 1789,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radioscaphocapitate_ligament",
+      "vertices": 785,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scaphocapitate_ligament",
+      "vertices": 570,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scapholunate_interosseus_ligament",
+      "vertices": 377,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Scaphotrapeziotrapezoidal_ligament",
+      "vertices": 599,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Transverse_carpal_ligament",
+      "vertices": 190,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapeziotrapezoidal_interosseous_ligament",
+      "vertices": 167,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Trapezoideocapitate_interosseous_ligament",
+      "vertices": 170,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Triquetrocapitate_ligament",
+      "vertices": 554,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Triquetrohamate_ligament",
+      "vertices": 651,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnopisiform_ligament",
+      "vertices": 672,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnotriquetral_ligament",
+      "vertices": 509,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Basilic_vein",
+      "vertices": 106,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Cephalic_vein",
+      "vertices": 57,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_venous_palmar_arch",
+      "vertices": 2093,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_veins",
+      "vertices": 12961,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metatarsal_veins",
+      "vertices": 4043,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_venous_network_of_hand",
+      "vertices": 1612,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Intercapitular_veins_of_hand",
+      "vertices": 975,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_antebrachial_vein",
+      "vertices": 115,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmal_digital_veins",
+      "vertices": 15613,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_metacarpal_veins",
+      "vertices": 12688,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_venous_network_of_hand",
+      "vertices": 10044,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_interosseous_veins",
+      "vertices": 360,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radial_veins",
+      "vertices": 508,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_palmar_venous_arch",
+      "vertices": 637,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_veins_of_upper_limb",
+      "vertices": 207,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_veins",
+      "vertices": 422,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Anterior_interosseous_artery",
+      "vertices": 776,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Common_palmar_digital_arteries",
+      "vertices": 1300,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Deep_palmar_arch",
+      "vertices": 1105,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_carpal_arch",
+      "vertices": 481,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_carpal_network",
+      "vertices": 1963,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_digital_arteries_of_hand",
+      "vertices": 5395,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsal_metacarpal_artery",
+      "vertices": 1768,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsalis_indicis",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Dorsalis_pollicis",
+      "vertices": 793,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_carpal_branches",
+      "vertices": 650,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Palmar_metacarpal_arteries",
+      "vertices": 507,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Perforating_arteries_of_hand",
+      "vertices": 663,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Posterior_interosseous_artery",
+      "vertices": 519,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Princeps_pollicis_artery",
+      "vertices": 2561,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Proper_palmar_digital_arteries",
+      "vertices": 9867,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radial_artery",
+      "vertices": 150,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radialis_indicis",
+      "vertices": 1729,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Superficial_palmar_arch",
+      "vertices": 1261,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_artery",
+      "vertices": 254,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_artery_(dorsal_carpal_br)",
+      "vertices": 800,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve",
+      "vertices": 227,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Common_palmar_digital_nerve_of_the_thumb",
+      "vertices": 349,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Common_palmar_digital_nerves",
+      "vertices": 1359,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Palmar_br",
+      "vertices": 891,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Proper_palmar_digital_nerves",
+      "vertices": 9677,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Proper_palmar_digital_nerves_of_the_thumb",
+      "vertices": 1634,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Median_nerve_Recurrent_br",
+      "vertices": 891,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radial_nerve_Dorsal_digital_nn",
+      "vertices": 8096,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Radial_nerve_Superficial_br",
+      "vertices": 255,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve",
+      "vertices": 381,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Communicating_br",
+      "vertices": 193,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Deep_br",
+      "vertices": 1782,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Dorsal_cutaneous_br",
+      "vertices": 4915,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Palmar_cutaneous_br",
+      "vertices": 2883,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Superficial_br_Common_palmar_digital_n",
+      "vertices": 854,
+      "geometryType": "BufferGeometry"
+    },
+    {
+      "name": "Ulnar_nerve_Superficial_br_Proper_palmar_digital_nn",
+      "vertices": 3387,
+      "geometryType": "BufferGeometry"
+    }
+  ]
+}

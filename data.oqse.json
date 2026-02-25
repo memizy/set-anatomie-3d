@@ -1,0 +1,534 @@
+{
+  "$schema": "https://memizy.com/schemas/oqse/v1.0.json",
+  "version": "1.0",
+  "meta": {
+    "id": "019c9536-b3cb-7cc4-b965-1fd79be59db7",
+    "language": "cs",
+    "title": "Anatomie lebky – Identifikace kostí",
+    "description": "Procvič si znalost kostí lebky. U každé otázky najdi a klikni na správnou kost přímo na 3D modelu.",
+    "subject": "anatomy",
+    "tags": [
+      "anatomie",
+      "lebka",
+      "craniologie",
+      "medicína",
+      "3d"
+    ],
+    "createdAt": "2026-02-25T00:00:00Z",
+    "updatedAt": "2026-02-25T00:00:00Z",
+    "assets": {
+      "skull-model": {
+        "type": "model",
+        "value": "assets/colored-skull-base.glb",
+        "mimeType": "model/gltf-binary",
+        "label": "Lebka – barevný 3D model"
+      }
+    },
+    "requirements": {
+      "itemProperties": [
+        "explanation"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "019c9536-b3cb-7ae9-87d0-3bbc335a92fb",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os frontale** (Čelní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Frontal_bone"
+        }
+      ],
+      "explanation": "Os frontale tvoří přední část klenby lební a strop očnice. Obsahuje čelní dutiny (sinus frontalis).",
+      "tags": [
+        "neurokranium",
+        "klenba lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7a60-a312-e5534245acf9",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os parietale sinistrum** (Levá temenní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Parietal_bonel"
+        }
+      ],
+      "explanation": "Os parietale je párová kost tvořící boční a horní část klenby lební. Levá a pravá jsou spojeny sagitálním švem.",
+      "tags": [
+        "neurokranium",
+        "klenba lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7105-beab-dd1c2ff44a3b",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os parietale dextrum** (Pravá temenní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Parietal_boner"
+        }
+      ],
+      "explanation": "Os parietale dextrum – pravá temenní kost. Spojuje se s levou temenní kostí sagitálním švem a s čelní kostí koronárním švem.",
+      "tags": [
+        "neurokranium",
+        "klenba lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7166-b15d-39b9c762155d",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os occipitale** (Týlní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Occipital_bone"
+        }
+      ],
+      "explanation": "Os occipitale uzavírá lebku zezadu a zespodu. Obsahuje foramen magnum (velký týlní otvor), kudy prochází prodloužená mícha.",
+      "tags": [
+        "neurokranium",
+        "baze lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-714e-858b-e15162aba8cb",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os temporale** (Spánková kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Temporal_bones"
+        }
+      ],
+      "explanation": "Os temporale je párová kost obsahující orgán sluchu a rovnováhy. Processus mastoideus a processus styloideus jsou její důležité výbežky.",
+      "tags": [
+        "neurokranium",
+        "baze lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7568-8a48-20e1fef8bdaa",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os sphenoidale** (Klínová kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Sphenoid_bone"
+        }
+      ],
+      "explanation": "Os sphenoidale tvoří střední část baze lební. Má tvar motýla a obsahuje turecké sedlo (sella turcica), kde leží hypofýza.",
+      "tags": [
+        "neurokranium",
+        "baze lební"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7f3d-9dd1-7909b0316ad2",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os ethmoidale** (Čichová kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Ethmoid_Bone"
+        }
+      ],
+      "explanation": "Os ethmoidale leží mezi orbity a tvoří horní část nosní přepážky. Lamina cribrosa umožňuje průchod čichových nervů.",
+      "tags": [
+        "neurokranium",
+        "baze lební",
+        "viscerocranum"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-75cc-bb3a-7e9f6590608d",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Maxilla** (Horní čelist)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Maxilla_boner"
+        }
+      ],
+      "explanation": "Maxilla je párová kost tvořící základ střední části obličeje, strop dutiny ústní a spodek orbity. Nese horní zuby.",
+      "tags": [
+        "viscerokranium",
+        "splanchnocranium"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7dd0-9101-aa4b2aee80fd",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Mandibula** (Dolní čelist)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Mandible_bone"
+        }
+      ],
+      "explanation": "Mandibula je jediná pohyblivá kost lebky. Skládá se z těla (corpus) a dvou ramen (rami). Nese dolní zuby.",
+      "tags": [
+        "viscerokranium",
+        "splanchnocranium"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-75be-83ae-503c410cf57c",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os nasale** (Nosní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Nasal_bone"
+        }
+      ],
+      "explanation": "Os nasale je párová plochá kost tvořící kostěný hřbet nosu. Artikuluje s os frontale, maxillou a s druhostrannou nosní kostí.",
+      "tags": [
+        "viscerokranium"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7622-bce9-c6d95a4145d3",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os zygomaticum** (Lícní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Zygomatic_bones"
+        }
+      ],
+      "explanation": "Os zygomaticum tvoří výrazný lícní oblouk (arcus zygomaticus). Artikuluje s os frontale, maxillou a os temporale.",
+      "tags": [
+        "viscerokranium"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7ed6-8423-8957ab6abecc",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os lacrimale** (Slzní kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lacrimal_bones"
+        }
+      ],
+      "explanation": "Os lacrimale je nejtenčí a nejkřehkí kost lebky, leží v mediální stěně orbity. Obsahuje canalis nasolacrimalis (slzný kanálek).",
+      "tags": [
+        "viscerokranium",
+        "orbita"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-740c-acd5-0380d5f85ce6",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Os palatinum** (Patrová kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Palatine_bone"
+        }
+      ],
+      "explanation": "Os palatinum tvoří zadní část tvrdého patra, část laterální stěny nosní dutiny a část baze lební. Má tvar písmene L.",
+      "tags": [
+        "viscerokranium"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-70e4-aae8-c0d067c90d55",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Concha nasalis inferior** (Dolní nosní skořepa)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Inferior_nasal_concha_bones"
+        }
+      ],
+      "explanation": "Concha nasalis inferior je samostatná kost – nejníže uložená nosní skořepa. Zvětšuje povrch nosní sliznice pro ohřev a zvlhčení vzduchu.",
+      "tags": [
+        "viscerokranium",
+        "cavitas nasi"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7f07-b57e-cdfc5c895d0d",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Vomer** (Radlicová kost)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Vomer"
+        }
+      ],
+      "explanation": "Vomer je nepárová kost tvořící zadní a dolní část nosní přepážky (septum nasi). Název pochází z tvaru radlice pluhu.",
+      "tags": [
+        "viscerokranium",
+        "cavitas nasi"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-774a-a6ca-195258cbeb5b",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes canini superiores** (Horní špičáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_canines"
+        }
+      ],
+      "explanation": "Horní špičáky (dentes canini) mají jeden silný kořen a špičatou korunku. Slouží k uchopení a trhání potravy.",
+      "tags": [
+        "dentice",
+        "horní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7960-ae93-08c377f93b7a",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes canini inferiores** (Dolní špičáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_canines"
+        }
+      ],
+      "explanation": "Dolní špičáky jsou o něco menší než horní. Jsou součástí frontální skupiny zubů a patří do trvalého chrupu jako třetí zub od středu.",
+      "tags": [
+        "dentice",
+        "dolní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7b02-b238-9726c24b6acf",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes incisivi mediales superiores** (Horní střední řezáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_medial_incisors"
+        }
+      ],
+      "explanation": "Horní střední řezáky jsou první a druhý zub od středu shora. Mají dlátkový tvar korunky a zajišťují řezání potravy.",
+      "tags": [
+        "dentice",
+        "horní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7ff4-b099-b4f62c1596a1",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes incisivi laterales superiores** (Horní postranní řezáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_lateral_incisors"
+        }
+      ],
+      "explanation": "Horní postranní řezáky (druhé zuby od středu shora) jsou menší než střední řezáky a mají zaoblenější tvar korunky.",
+      "tags": [
+        "dentice",
+        "horní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-743b-b971-a455483f911a",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes incisivi mediales inferiores** (Dolní střední řezáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_medial_incisors"
+        }
+      ],
+      "explanation": "Dolní střední řezáky jsou nejmenší zuby trvalého chrupu. Jsou velmi úzké s jedním kořenem.",
+      "tags": [
+        "dentice",
+        "dolní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-77ae-8025-d557b23cdccf",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes incisivi laterales inferiores** (Dolní postranní řezáky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_lateral_incisors"
+        }
+      ],
+      "explanation": "Dolní postranní řezáky jsou o trochu větší než střední řezáky dolní čelisti. Mají rovněž jeden kořen.",
+      "tags": [
+        "dentice",
+        "dolní_zuby"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-73ae-a321-c2d2efb30335",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes premolares primi superiores** (Horní první předstolikáry)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_first_premolars"
+        }
+      ],
+      "explanation": "Horní první předstolikáry mají dva hrbolky (bicuspis) a obvykle dva kořeny – bukální a palatinální.",
+      "tags": [
+        "dentice",
+        "horní_zuby",
+        "premolary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-76b1-b408-827d2ccfc7bd",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes premolares secundi superiores** (Horní druhé předstolikáry)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_second_premolars"
+        }
+      ],
+      "explanation": "Horní druhé předstolikáry jsou podobné prvním, ale mají obvykle jen jeden kořen a jsou o něco menší.",
+      "tags": [
+        "dentice",
+        "horní_zuby",
+        "premolary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-773b-a2de-20a58c1c58f7",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes premolares primi inferiores** (Dolní první předstolikáry)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_first_premolars"
+        }
+      ],
+      "explanation": "Dolní první předstolikáry mají jeden hlavní hrbolek na bukální straně a jeden nebo dva nižší hrbolky linguálně.",
+      "tags": [
+        "dentice",
+        "dolní_zuby",
+        "premolary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7486-94f9-5eee71fcc813",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes premolares secundi inferiores** (Dolní druhé předstolikáry)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_second_premolars"
+        }
+      ],
+      "explanation": "Dolní druhé předstolikáry mají dva nebo tři hrbolky. Jsou přechodovým článkem mezi špičáky a stoličkami.",
+      "tags": [
+        "dentice",
+        "dolní_zuby",
+        "premolary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7d67-9fa8-1193975c04d4",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes molares primi superiores** (Horní první stoličky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_first_molar_teeth"
+        }
+      ],
+      "explanation": "Horní první stoličky jsou největšími zuby horní čelisti. Mají zpravidla čtyři hrbolky a tři kořeny (dva bukální + jeden palatinální).",
+      "tags": [
+        "dentice",
+        "horní_zuby",
+        "molary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7b6f-a621-ccaf36ea210f",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes molares secundi superiores** (Horní druhé stoličky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Upper_second_molar_teeth"
+        }
+      ],
+      "explanation": "Horní druhé stoličky jsou menší než první stoličky a mají stejné uspořádání kořenů. Prořezávají se kolem 12. roku.",
+      "tags": [
+        "dentice",
+        "horní_zuby",
+        "molary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7a24-ae74-b2656f46c49b",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes molares primi inferiores** (Dolní první stoličky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_first_molar_teeth"
+        }
+      ],
+      "explanation": "Dolní první stoličky jsou prvními trvalými zuby, které prořezávají (kolem 6. roku). Mají pět hrbolku a dva kořeny.",
+      "tags": [
+        "dentice",
+        "dolní_zuby",
+        "molary"
+      ]
+    },
+    {
+      "id": "019c9536-b3cb-7087-a4a2-0a2c72a94d20",
+      "type": "pin-on-model",
+      "question": "Najdi a klikni na: **Dentes molares secundi inferiores** (Dolní druhé stoličky)",
+      "targetAsset": "skull-model",
+      "hotspots": [
+        {
+          "type": "mesh",
+          "targetName": "Lower_second_molar_teeth"
+        }
+      ],
+      "explanation": "Dolní druhé stoličky jsou podobné prvním, prořezávají se kolem 12. roku. Mají čtyři nebo pět hrbolku a dva kořeny.",
+      "tags": [
+        "dentice",
+        "dolní_zuby",
+        "molary"
+      ]
+    }
+  ]
+}
