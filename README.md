@@ -39,7 +39,7 @@ Sada postupně mapuje celé lidské tělo. Místo biflování z učebnice si zde
 ## 🚀 Jak sadu používat
 
 Sada je plně kompatibilní s ekosystémem Memizy. Pro spuštění nemusíte stahovat gigabyty dat. Stačí si v aplikaci Memizy otevřít import a vložit přímý odkaz na data této sady:
-`https://cdn.jsdelivr.net/gh/tvoje-jmeno/set-anatomie-3d@main/data.oqse.json`
+`https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json`
 
 ## ⚖️ Licence
 
