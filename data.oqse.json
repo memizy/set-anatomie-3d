@@ -25,6 +25,7 @@
       }
     },
     "requirements": {
+      "features": ["markdown"],
       "itemProperties": [
         "explanation"
       ]
