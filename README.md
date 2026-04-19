@@ -15,6 +15,14 @@ Interaktivní studijní sada pro [Memizy Ecosystem](https://github.com/memizy/me
 
 ---
 
+## 🔗 Odkaz na sadu (Raw Data)
+
+**[https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json)**
+
+*Zkopíruj tento odkaz do aplikace Memizy a okamžitě začni učit se!*
+
+---
+
 ## 🙏 Obrovské poděkování a kredity (Credits)
 
 Tato sada by nikdy nemohla vzniknout bez dechberoucí práce komunity z **AnatomyTool.org**. 
@@ -39,7 +47,7 @@ Sada postupně mapuje celé lidské tělo. Místo biflování z učebnice si zde
 ## 🚀 Jak sadu používat
 
 Sada je plně kompatibilní s ekosystémem Memizy. Pro spuštění nemusíte stahovat gigabyty dat. Stačí si v aplikaci Memizy otevřít import a vložit přímý odkaz na data této sady:
-`https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json`
+[https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/data.oqse.json)
 
 ## ⚖️ Licence
 
