@@ -19,7 +19,7 @@
     "assets": {
       "skull-model": {
         "type": "model",
-        "value": "assets/colored-skull-base.glb",
+        "value": "https://cdn.jsdelivr.net/gh/memizy/set-anatomie-3d@main/assets/colored-skull-base.glb",
         "mimeType": "model/gltf-binary",
         "altText": "Lebka – barevný 3D model"
       }
